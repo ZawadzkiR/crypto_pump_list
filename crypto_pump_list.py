@@ -4,7 +4,7 @@ import smtplib
 import time, requests, json
 import datetime as dt
 
-COINMARKETCAP_PRO_API_KEY = '0ef5dbb1-f843-483a-b168-e0fc41550e77'
+COINMARKETCAP_PRO_API_KEY = 'Your_COINMARKETCAP_API_KEY'
 mail_adress = 'Your_email_adress'
 mail_passw = 'Your_email_password'
 SMTP = 'smtp.gmail.com' #for gmail
